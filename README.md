@@ -1,1 +1,1 @@
-# ConsoleApplication1G
+# Demo C++23 std::generator
